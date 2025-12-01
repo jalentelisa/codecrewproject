@@ -7,3 +7,11 @@ a {
 a:hover{
   background-color: black; 
 }
+
+body {
+  text-align: center; 
+  color: beige; 
+  font-size: 30px; 
+  padding: 12px; 
+  margin: 0; 
+}
