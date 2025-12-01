@@ -2,7 +2,7 @@ a {
   color: white; 
   text-decoration: none; 
   background-color: brown;
-  border-radius: 8px; 
+  border-radius: 2px; 
 }
 a:hover{
   background-color: black; 
@@ -10,7 +10,7 @@ a:hover{
 
 body {
   text-align: center; 
-  background-color: beige; 
+  color: beige; 
   font-size: 30px; 
   padding: 12px; 
   margin: 0; 
