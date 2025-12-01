@@ -1,3 +1,9 @@
 a {
-  color: blue; 
+  color: white; 
+  text-decoration: none; 
+  background-color: brown;
+  border-radius: 8px; 
+}
+a:hover{
+  background-color: black; 
 }
